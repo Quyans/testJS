@@ -1,0 +1,25 @@
+#CalBody{
+    width: 84%;
+    float: right;
+    height: 40em;
+
+    margin-right: 10px;
+}
+#caltable{
+    width: 100%;
+    height: 100%;
+    border:  thin solid black;
+}
+#caltable th{
+    height: 8%;
+    padding-top: 16px;
+}
+
+#caltable td , #caltable th{
+    border: 1px dotted gray;
+
+}
+#caltable td  {
+    text-align: center;
+}
+
